@@ -1,5 +1,5 @@
 # Cesário Pereira Neto :smiley:
-### Desenvolvedor Backend (Frontend as vezes) / Bacharelando em Sistemas de Informação
+### Desenvolvedor Backend / Bacharelando em Sistemas de Informação
 
 Olá! Eu me chamo Cesário Pereira Neto e sou um desenvolvedor em construção. Atualmente, estou focando meus estudos no desenvolvimento Web Services e API REST com as linguagem Java e Kotlin com os frameworks do Spring e com Javascript/Typescript(NodeJS), Tendo alguns projetos desenvolvidos e publicados nos meus repositórios. Sou aluno do 8° periodo do curso de Bacharelado em Sistemas de Informação na Universidade Federal Rural do Semi-árido(UFERSA/ANGICOS RN).
 
