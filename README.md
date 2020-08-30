@@ -7,5 +7,5 @@ Meu principal objetivo é ingressar na carreira profissional na área de tecnolo
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesarionto/)](https://www.linkedin.com/in/cesarionto)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585999881135&text=Hi!)](https://api.whatsapp.com/send?phone=5584991370553Hi!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/cesariontoo)](https://t.me/gilvanhenrique)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilvanhenrique.dev@gmail.com)](mailto:cesariopereiraneto@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/cesariontoo)](https://t.me/cesariontoo)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cesariopereiraneto@gmail.com)](mailto:cesariopereiraneto@gmail.com)
