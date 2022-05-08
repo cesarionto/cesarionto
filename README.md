@@ -8,5 +8,5 @@ Sou aluno formando do curso de Bacharelado em Sistemas de Informação na Univer
 Gosto de aprender coisas novas, trabalhar em equipe e compartilhar conhecimento.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesarionto/)](https://www.linkedin.com/in/cesarionto)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585999881135&text=Hi!)](https://api.whatsapp.com/send?phone=5584991654119Hi!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584991654119&text=Ol%C3%A1%2C%20eu%20vim%20atrav%C3%A9s%20do%20Github.%20Tudo%20Bem%3F)](https://api.whatsapp.com/send?phone=5584991654119&text=Ol%C3%A1%2C%20eu%20vim%20atrav%C3%A9s%20do%20Github.%20Tudo%20Bem%3F)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cesariopereiraneto@gmail.com)](mailto:cesariopereiraneto@gmail.com)
